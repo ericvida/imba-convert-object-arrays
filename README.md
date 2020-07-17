@@ -1,0 +1,1 @@
+Tool for converting personal object arrays between js syntax and Imba syntax.
